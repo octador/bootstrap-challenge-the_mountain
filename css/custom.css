@@ -1,0 +1,30 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "rokkitt";
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h1 {
+  font-family: "rokkitt";
+  font-size: 4.5rem;
+  font-weight: 600;
+}
+
+p,
+span,
+a,
+button {
+  font-family: "Roboto";
+}
+
+#bgHome {
+  background-image: url("../images/bg_header.jpg");
+  background-size: cover;
+}
+
