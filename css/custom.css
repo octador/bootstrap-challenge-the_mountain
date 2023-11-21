@@ -28,3 +28,20 @@ button {
   background-size: cover;
 }
 
+#about{
+    background-image: url("../images/bg_nuage.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.borderAbout{
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
